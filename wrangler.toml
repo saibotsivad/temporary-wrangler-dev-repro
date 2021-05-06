@@ -1,0 +1,8 @@
+type = "webpack"
+account_id = "YOUR_ID"
+zone_id = "YOUR_ID"
+workers_dev = true
+name = "worker-repro-demo-0001"
+routes = [
+	"bogus-site-that-does-not-exist-0001.com/*"
+]
